@@ -659,7 +659,150 @@
             "seekTo": "00:00:00"
           }
         ]
+      },
+      
+      {
+        "ep": 5,
+        "season": 2,
+        "stringUrl": "devrev-16",
+        "videoId": "6_swL_gIUgE",
+        "title": "1337: Behind The Scenes",
+        "thumbnail": "/static/images/thumbnail/thumbnail-ep15.webp",
+        "duration": "PT1H2M26S",
+        "publishedAt": "2020-11-24T13:49:52Z",
+        "description": [
+          "In this episode, Zack Braksa chats with Software Engineering Students from 1337 about how it works, their experience so far, and their tips for future applicants."
+        ],
+        "participants": [
+          {
+            "id": "uKjACmjLYd",
+            "name": "Zack Braksa",
+            "image": "/static/images/profiles/zack-braksa.webp",
+            "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem asperiores tenetur reprehenderit maxime repellendus numquam quas praesentium sed perferendis, magnam quam aut a hic placeat laudantium nobis vero dolore quis.",
+            "linkedin": "https://www.linkedin.com/in/braksa/"
+          },
+          {
+            "id": "PPMDvi0Wg0",
+            "name": "Fadel drissi toubbali",
+            "image": "/static/images/profiles/mounir-benchemled.webp",
+            "about": "Fadel got his bachlor’s degree in Law in 2016. He then decided to turn his hobby (web development) into something more. In 2018, he joined 1337 and started his journey to become a full stuck developer.",
+            "linkedin": "https://www.linkedin.com/in/fadel-drissi-toubbali-0594a5173/"
+          },
+          {
+            "id": "PPMDvi0Wg0",
+            "name": "Mouad  Sidqi",
+            "image": "/static/images/profiles/mounir-benchemled.webp",
+            "about": "With a background in Economics, Mouad joined 1337 Coding School in late 2018 and made his first steps into the industry in less than 2 years. He has experience with computer graphics, gamedev and web developement.",
+            "linkedin": "https://www.linkedin.com/in/mouad-sidqi/"
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1",
+            "question": "",
+            "seekTo": "00:00:00"
+          }
+        ]
+      },
+      
+      {
+        "ep": 6,
+        "season": 2,
+        "stringUrl": "devrev-17",
+        "videoId": "HdcjqHD8dnQ",
+        "title": "Interactive Resumes/CVs Review 2.0",
+        "thumbnail": "/static/images/thumbnail/thumbnail-ep15.webp",
+        "duration": "PT1H2M26S",
+        "publishedAt": "2020-11-24T13:49:52Z",
+        "description": [
+          "Another special live episode where Zack Braksa, VP of Engineering at Gemography will be reviewing YOUR resumes and CVs. If you'd like to participate, send us your anonymized CVs/resumes (make sure you blur your name, email, phone number, company names ... etc)"
+        ],
+        "participants": [
+          {
+            "id": "uKjACmjLYd",
+            "name": "Zack Braksa",
+            "image": "/static/images/profiles/zack-braksa.webp",
+            "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem asperiores tenetur reprehenderit maxime repellendus numquam quas praesentium sed perferendis, magnam quam aut a hic placeat laudantium nobis vero dolore quis.",
+            "linkedin": "https://www.linkedin.com/in/braksa/"
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1",
+            "question": "",
+            "seekTo": "00:00:00"
+          }
+        ]
+      },
+      
+      {
+        "ep": 7,
+        "season": 2,
+        "stringUrl": "devrev-18",
+        "videoId": "NPr7zDdJhvw&t",
+        "title": "How to promote your Web/Mobile App?",
+        "thumbnail": "/static/images/thumbnail/thumbnail-ep15.webp",
+        "duration": "PT1H2M26S",
+        "publishedAt": "2020-11-24T13:49:52Z",
+        "description": [
+          "In our first episode of the new year, Zack and his guest Ayyoub Boutaieb will discuss how you can get your app into the hands of the end-user? Why promoting your app is just as important as creating it? Tips on where to start? What channels to use, and more"
+        ],
+        "participants": [
+          {
+            "id": "uKjACmjLYd",
+            "name": "Zack Braksa",
+            "image": "/static/images/profiles/zack-braksa.webp",
+            "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem asperiores tenetur reprehenderit maxime repellendus numquam quas praesentium sed perferendis, magnam quam aut a hic placeat laudantium nobis vero dolore quis.",
+            "linkedin": "https://www.linkedin.com/in/braksa/"
+          }
+           {
+            "id": "uKjACmjLYd",
+            "name": "Ayyoub Boutaieb",
+            "image": "/static/images/profiles/zack-braksa.webp",
+            "about": "Before joining Enigma, Ayyoub was a part-time CTO in a startup based in New Jersey. But, he manifested his passion for tech earlier when he co-founded “Tech Experience” in 2016, an event for El Hoceima’s techies, where they participated in code competitions, tech talks, worskhops & more. ",
+            "linkedin": "https://www.linkedin.com/in/ayyoub-boutaieb/"
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1",
+            "question": "",
+            "seekTo": "00:00:00"
+          }
+        ]
+      },
+      
+      {
+        "ep": 8,
+        "season": 2,
+        "stringUrl": "devrev-19",
+        "videoId": "3XELV8an5R4",
+        "title": "Live Resumes/CVs Review 2.0",
+        "thumbnail": "/static/images/thumbnail/thumbnail-ep15.webp",
+        "duration": "PT1H2M26S",
+        "publishedAt": "2020-11-24T13:49:52Z",
+        "description": [
+          "A third live episode about CVs where, Zack Braksa VP of Engineering at Gemography, will be reviewing YOUR resumes and CVs. If you want to get a live review of your resume, just make sure to blur your name, email, phone number, and company name then send us the anonymized copy on Messenger"
+        ],
+        "participants": [
+          {
+            "id": "uKjACmjLYd",
+            "name": "Zack Braksa",
+            "image": "/static/images/profiles/zack-braksa.webp",
+            "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem asperiores tenetur reprehenderit maxime repellendus numquam quas praesentium sed perferendis, magnam quam aut a hic placeat laudantium nobis vero dolore quis.",
+            "linkedin": "https://www.linkedin.com/in/braksa/"
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1",
+            "question": "",
+            "seekTo": "00:00:00"
+             }
+        ]
       }
-    ]
-  }
-}
+    ],
+  }     
+}       
+      
+   
